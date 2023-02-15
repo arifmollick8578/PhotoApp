@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoApp</string>
+    <string name="sample_address">Address</string>
+    <string name="sample_name">Name</string>
+    <string name="desc_text">Initial text</string>
+    <string name="loading_title">Loading...</string>
+    <string name="empty_list">Empty user list.</string>
+    <string name="no_data_found">No data found.</string>
+</resources>
